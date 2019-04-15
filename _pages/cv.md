@@ -14,7 +14,7 @@ Education
 * B.S. in Commerce (Major in Accounting, Minor in Economics), Macquarie University, 2005
 * M.S. in Finance (Specialise in Investment Banking), UNSW, 2008
 * Bachelor of Mathematics (with First Class Honours in Mathematical Finance), UTS, 2011
-* Ph.D in Theorectical Probability, GitHub University, 2018 
+* Ph.D in Theorectical Probability, The University of Sydney, 2018 
 
 Work experience
 ======
@@ -49,3 +49,8 @@ Skills
   * Deep learning: Artificial neural networks via Feedforward backpropagation, Tensorflow, Keras, PyTorch, Pyro
   * Dimension reduction: principal component analysis (PCA), factor analysis
   * Natural processing language (NPL) for unstructured data
+  
+Links
+-----
+
+[cv](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneJD.pdf)
