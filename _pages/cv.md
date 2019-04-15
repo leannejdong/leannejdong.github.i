@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Commerce (Major in Accounting, Minor in Economics), Macquarie University, 2005
+* M.S. in Finance (Specialise in Investment Banking), UNSW, 2008
+* Bachelor of Mathematics (with First Class Honours in Mathematical Finance), UTS, 2011
+* Ph.D in Theorectical Probability, GitHub University, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2006: Equity Research Intern
+  * SBI-E2 Capital Asia (HK)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2009: Assistant Vice President
+  * American International Assurance (AIA)
+
+* 2011-Current: Sessional Tutor and Lecturer in UTS and USYD
+  * Teach Advanced Applied Mathematics, Statistics, Data Science, Machine Learning
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (5 years; Dplyr,ggplot2,plotly); C++/C (1 year), Mathematica (7 years) 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Applied Mathematics
+  * Monte Carlo simulations
+  * Stochastic Partial Differential Equations
+  * Analysis and forecasting of time series
+  * Financial Econometrics
+
+* Quantitative Finance
+  * Risk, pricing and hedging
+  * Stress testing
+  * Market risk (VaR, PaR, Greeks) 
+  * credit risk (PD, LGD, EAD; PFE, CVaR)
+  * Volatility & correlation models
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine learning & Data Mining:
+  * Classification: support vector machines (SVM), decision trees       * Prediction: regressions; Clustering: k-means
+  * Deep learning: Artificial neural networks via Feedforward backpropagation, Tensorflow, Keras, PyTorch, Pyro
+  * Dimension reduction: principal component analysis (PCA), factor analysis
+  * Natural processing language (NPL) for unstructured data
