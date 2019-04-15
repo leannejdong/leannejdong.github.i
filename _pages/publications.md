@@ -28,5 +28,10 @@ author_profile: true
 
 ["Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise", PhD thesis, The University of Sydney](http://hdl.handle.net/2123/18119)
 
+
 [PhD Thesis download link](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/Dong_Leanne_thesis.pdf)
+
+##### 2011
+
+[Dong, L.J., "The pricing of VWAP Options under Lévy process framework", Honour Thesis, School of Mathematics and Physical Sciences, The University of Technology Sydney](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/L.thesis.pdf)
 
