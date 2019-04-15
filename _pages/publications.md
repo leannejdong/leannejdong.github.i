@@ -15,7 +15,7 @@ author_profile: true
 
 ##### 2019
 
-[Dong, L.J., "tochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, in Bulletin of the Australian Mathematical Society 1-2; DOI: 10.1017/S0004972718001351](https://doi.org/10.1017/S0004972718001351)
+[Dong, L.J., "Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, in Bulletin of the Australian Mathematical Society 1-2; DOI: 10.1017/S0004972718001351](https://doi.org/10.1017/S0004972718001351)
 
 ##### 2018
 
