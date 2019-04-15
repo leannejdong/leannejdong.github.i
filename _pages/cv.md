@@ -53,4 +53,6 @@ Skills
 Links
 -----
 
-[cv](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneJD.pdf)
+[CV_Long](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneJD.pdf)
+
+[CV_Short](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneCV_2019_word.pdf)
