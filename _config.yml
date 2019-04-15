@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "leanne.dong (at) sydney.edu.au
-  researchgate     :  # example: "https://www.researchgate.net/profile/Leanne_Dong"
+  researchgate     : "https://www.researchgate.net/profile/Leanne_Dong"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/leanne-j-dong/"
   orcid            : "http://orcid.org/0000-0003-1153-1598"
   pinterest        :
   soundcloud       :
