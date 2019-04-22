@@ -35,5 +35,5 @@ author_profile: true
 
 [Dong, L.J., "The pricing of VWAP Options under Lévy process framework", Honour Thesis, School of Mathematics and Physical Sciences, The University of Technology Sydney](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/L.thesis.pdf)
 
-[ong, L.J., "The pricing of VWAP Options under Lévy process framework", Honour Presentation, School of Mathematics and Physical Sciences, The University of Technology Sydney](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/Honour_Presentation.pdf)
+[Dong, L.J., "The pricing of VWAP Options under Lévy process framework", Honour Presentation, School of Mathematics and Physical Sciences, The University of Technology Sydney](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/Honour_Presentation.pdf)
 
