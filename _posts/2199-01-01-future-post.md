@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post'
-date: 2199-01-01
+date: 2019-24-04
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-A **L\'evy process** is a ocntinuous-time stochastic process $(X_t,t\ge 0)$
+A **Lévy process** is a ocntinuous-time stochastic process $(X_t,t\ge 0)$
 with
 
 * stationary increments
