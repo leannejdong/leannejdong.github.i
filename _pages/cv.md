@@ -22,7 +22,7 @@ Work experience
   * SBI-E2 Capital Asia (HK)
 
 * Summer 2009: Assistant Vice President
-  * American International Assurance (AIA)
+  * American International Assurance (AIA, GuangZhou Head Quarter)
 
 * 2011-Current: Sessional Tutor and Lecturer in UTS and USYD
   * Teaching focus: Advanced Applied Mathematics, Statistics, Data Science, Machine Learning
@@ -44,7 +44,8 @@ Skills
   * Volatility & correlation models
   
 * Machine learning & Data Mining:
-  * Classification: support vector machines (SVM), decision trees       * Prediction: regressions; Clustering: k-means
+  * Classification: support vector machines (SVM), decision trees       
+  * Prediction: regressions; Clustering: k-means
   * Deep learning: Artificial neural networks via Feedforward backpropagation, Tensorflow, Keras, PyTorch
   * Dimension reduction: principal component analysis (PCA), factor analysis
   * Natural processing language (NPL) for unstructured data
