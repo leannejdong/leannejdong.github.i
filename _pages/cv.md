@@ -29,7 +29,7 @@ Work experience
   
 Skills
 ======
-* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (5 years; Dplyr,ggplot2,plotly); C++/C (1 year), Mathematica (7 years) 
+* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (5 years; Dplyr,ggplot2,plotly, functional programming); C++/C (1 year), Mathematica (7 years) 
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
