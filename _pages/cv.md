@@ -25,11 +25,11 @@ Work experience
   * American International Assurance (AIA, GuangZhou Head Quarter)
 
 * 2011-Current: Sessional Tutor and Lecturer in UTS and USYD
-  * Teaching focus: Advanced Applied Mathematics, Statistics, Data Science, Machine Learning
+  * Teaching focus: Advanced Applied Mathematics, Real Analysis and Linear Algebra, Statistics, Data Science, Machine Learning
   
 Skills
 ======
-* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (5 years); C++/C (2 year), Mathematica (7 years), Git, HPC (interactive and queue based)
+* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (8 years); C++/C (2 year), Mathematica (7 years), Git, HPC (interactive and queue based)
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
@@ -46,7 +46,7 @@ Skills
   
 * Machine learning & Data Mining:
   * Classification: support vector machines (SVM), decision trees       
-  * Prediction: regressions; Clustering: k-means
+  * Prediction: regressions; Clustering: k-means, PAM
   * Deep learning: Artificial neural networks via Feedforward backpropagation, Tensorflow, Keras, PyTorch
   * Dimension reduction: principal component analysis (PCA), factor analysis
   * Natural processing language (NPL) for unstructured data
