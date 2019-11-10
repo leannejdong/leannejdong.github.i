@@ -14,14 +14,22 @@ I graduated from a PhD in Theoretical Probability in 2018 at the University of S
 
 One the one hand, I am keen about developing robust and scalable learning algorithms, prototypes/ probablistic software. On other hand, I am passionate about the interactions of macroeconomic policies/financial stability/labor markets with Artificial Intelligence. Taking the guidance of functional analysis, stochastic calculus, statistical machine learning, and the theory of complex systems, I have recently developed a theoretical framework that allows the transition from event data to interval-censored data. Using these tools with aid of Artificial Intelligence we model online behaviour and job skills dynamics in Australia. 
 
-**Research interest** (minimal list): 
+**Research interests**: 
 
-* Applications of Machine Learning to Physics and Finance
+* Applications of Machine Learning to Physics/Engineering and Finance
 
 * Quantum Computing
 
-* Blockchain 
+* Blockchain applications to Energy/IoT 
 
-* Machine Learning for HFT/Algorithmic Trading, Quantitative software development
+* Machine Learning for HFT/Algorithmic Trading
+
+* Financial or Educational software development
 
 * Computational Social Media
+
+* Theoretical and Statistical Machine Learning
+
+* Spatio-Temporal Modelling
+
+* Other topics around computer science, mathematics and AI (email!)
