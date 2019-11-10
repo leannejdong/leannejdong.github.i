@@ -12,7 +12,16 @@ Hi! I am a Postdoctoral Researcher @ [UTS Faculty of Engineering and Information
 
 I graduated from a PhD in Theoretical Probability in 2018 at the University of Sydney (Advisor: Prof. Ben Goldys). I received formal undergraduate and postgraduate qualifications in Mathematics, Statistics, Accounting, Economics and Finance. My PhD is around finite and infinite dimensional, deterministic and stochastic (nonlinear) PDEs. My research is interdisciplinary, involving many tools from Pure Mathematics (functional analysis, stochastic analysis, measure theory, Ergodic theory, differential geometry and PDE theory) to tackle complex real world problems in Natural Science, Engineering and Finance. The main theme of my PhD research lies in stochastic Navier-Stokes equations with stable Lévy noise. I worked on Stochastic PDEs from a probabilistic point of view but use classical PDE and functional analysis results for motivation and guidance. Between January-May 2019, I  carried on research in Probablistic Deep Learning at the Centre of Translational Data Science as an intern and now remain as an affiliate researcher. I also enjoy teaching. I have been tutoring Mathematics, Data science, Machine Learning and Financial Econometric around USYD and UTS for roughly 8 years.
 
-One the one hand, I am keen about developing robust and scalable learning algorithms, prototypes/ probablistic software. On other hand, I am passionate about the interactions of macroeconomic policies/financial stability/labor markets with Artificial Intelligence. Taking the guidance of functional analysis, stochastic calculus and the theory of probability and statistics, I have recently developed a theoretical framework that allows the transition from event data to interval-censored data. Using these tools with aid of Artificial Intelligence we model online behaviour and job skills dynamics in Australia. 
+One the one hand, I am keen about developing robust and scalable learning algorithms, prototypes/ probablistic software. On other hand, I am passionate about the interactions of macroeconomic policies/financial stability/labor markets with Artificial Intelligence. Taking the guidance of functional analysis, stochastic calculus, statistical machine learning, and the theory of complex systems, I have recently developed a theoretical framework that allows the transition from event data to interval-censored data. Using these tools with aid of Artificial Intelligence we model online behaviour and job skills dynamics in Australia. 
 
-Besides machine learning, I have also an active interest in computational stochastic PDEs.
+**Research interest** (minimal list): 
 
+* Applications of Machine Learning to Physics and Finance
+
+* Quantum Computing
+
+* Blockchain 
+
+* Machine Learning for HFT/Algorithmic Trading, Quantitative software development
+
+* Computational Social Media
