@@ -18,7 +18,7 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Applications of Machine Learning to Physics/Engineering/Atmospherics and Finance
 
-* Quantum Computing
+* Quantum Computing, Information geometry
 
 * Blockchain applications to Energy/IoT 
 
