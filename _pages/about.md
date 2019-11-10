@@ -16,7 +16,7 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 **Research interests**: 
 
-* Applications of Machine Learning to Physics/Engineering and Finance
+* Applications of Machine Learning to Physics/Engineering/Atmospherics and Finance
 
 * Quantum Computing
 
