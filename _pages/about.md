@@ -18,7 +18,7 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Applications of Machine Learning to Physics/Engineering/Atmospherics and Finance
 
-* Quantum Computing, Information geometry
+* Quantum Computing, Information geometry, Quantum Machine Learning
 
 * Blockchain applications to Energy/IoT 
 
@@ -30,6 +30,6 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Theoretical and Statistical Machine Learning
 
-* Spatio-Temporal Modelling
+* Spatio-Temporal (Dependency) Modelling
 
-* Other topics around computer science, mathematics and AI (email!)
+* Mathematical Analysis, Stochastic PDEs, Financial Mathematics
