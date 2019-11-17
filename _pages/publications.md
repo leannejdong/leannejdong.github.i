@@ -43,6 +43,5 @@ author_profile: true
 
 ### Unpublished
 
-[Dong, L.J. and , van der Hoek, J. "Functional Analysis and Distribution Theory: From Quantum Mechanic to Machine Learning”, 2019
+[Dong, L.J. and , van der Hoek, J. "Functional Analysis and Distribution Theory: From Quantum Mechanic to Machine Learning”, 2019](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/fa-qm-ml.pdf)
 
-[Download link](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/fa-qm-ml.pdf)
