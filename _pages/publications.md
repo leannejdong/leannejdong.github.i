@@ -40,3 +40,9 @@ author_profile: true
 
 [Dong, L.J., "The pricing of VWAP Options under Lévy process framework", Honour Presentation, School of Mathematics and Physical Sciences, The University of Technology Sydney](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/Honour_Presentation.pdf)
 
+
+### Unpublished
+
+[Dong, L.J. and , van der Hoek, J. "Functional Analysis and Distribution Theory: From Quantum Mechanic to Machine Learning”, 2019
+
+[Download link](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/fa-qm-ml.pdf)
