@@ -20,13 +20,15 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Quantum Computing, Information geometry, Quantum Machine Learning
 
+* Data-driven Scientific Computing
+
 * Blockchain applications to Energy/IoT 
 
 * Machine Learning for HFT/Algorithmic Trading
 
 * Financial or Educational software development
 
-* Computational Social Media
+* Computational Social Media/Social Computing
 
 * Theoretical and Statistical Machine Learning
 
