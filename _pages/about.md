@@ -16,7 +16,9 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 **Research interests**: 
 
-* Applications of Machine Learning to Physics/Engineering/Atmospherics and Finance
+* Machine Learning for Finance
+
+* Bayesian Deep Learning
 
 * Quantum Computing, Information geometry, Quantum Machine Learning
 
@@ -32,6 +34,6 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Theoretical and Statistical Machine Learning
 
-* Spatio-Temporal (Dependency) Modelling
+* Spatio-Temporal (Dependency) Modelling 
 
 * Mathematical Analysis, Stochastic PDEs, Financial Mathematics
