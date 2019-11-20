@@ -20,15 +20,13 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Bayesian Deep Learning
 
-* Quantum Computing, Information geometry and coding theory, Quantum Machine Learning
+* Quantum Computing, Information Geometry and Coding theory, Quantum Machine Learning
 
 * Data-driven Scientific Computing
 
-* Blockchain applications to Smart cities (Smart energy, QC, IoT)
+* Blockchain applications to Smart cities (Renewable energy, QC, IoT)
 
 * Machine Learning for HFT/Algorithmic/Automated Trading
-
-* Financial or Educational software development
 
 * Computational Social Media/Social Computing
 
@@ -36,6 +34,6 @@ One the one hand, I am keen about developing robust and scalable learning algori
 
 * Spatio-Temporal (Dependency) Modelling 
 
-* Point processes and applications to social media, finance, insurance, quantum physics
+* Point processes and applications to Social Media, Finance, Insurance, Quantum Physics
 
 * Mathematical Analysis, Stochastic PDEs, Financial Mathematics
