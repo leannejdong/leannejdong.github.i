@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), was working at the intersection of  Machine Learning, Statistics, Computer Social science and Scientific computing. Recently I completed my first postdoc. in social computing. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools I used was functional analysis and distribution theory. These days I am dabbling quantum computing and deep learning.
-
-**Please note other parts of my homepage are bits out of dated.**
+Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), was working at the intersection of  Machine Learning, Statistics, Computer Social science and Scientific computing. Recently I completed my first postdoc. in social computing. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used was functional analysis and distribution theory. These days I am dabbling quantum computing and deep learning. **Please note other parts of my homepage are bits out of dated.**
 
 **Research interests**: 
 
