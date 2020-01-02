@@ -26,10 +26,12 @@ Work experience
 
 * 2011-Current: Sessional Tutor and Lecturer in UTS and USYD
   * Teaching focus: Advanced Applied Mathematics, Real Analysis and Linear Algebra, Statistics, Data Science, Machine Learning
+
+* 2019: Research Associate at FEIT, UTS (Computer Social Science)
   
 Skills
 ======
-* Technical skills: Matlab (2 years), Python (1 year; scikit, pandas, numpy, scipy, matplotlib, seaborn, statsmodels); Excel VBA (2 years), R (8 years); C++/C (2 year), Mathematica (7 years), Git, HPC (interactive and queue based)
+* Technical skills: C++/C (3 years, favorite), Matlab (2 years), Python (1 year); Excel VBA (2 years), R (8 years), Mathematica (7 years), Git, HPC (interactive and queue based)
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
