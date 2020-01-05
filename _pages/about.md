@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), was working at the intersection of  Machine Learning, Statistics, Computer Social science and Scientific computing. Recently I completed my first postdoc. in social computing. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used was functional analysis and distribution theory. I am also a fan of C++. These days I am dabbling quantum computing, deep learning and getting myself more Pythonic, and preparing for the next move. **Please note other parts of my homepage are bits out of dated. My Linkedin page is perhaps more updated where I frequently exchange thoughts in the relevant communities of AI, Quantum, Maths, C++ and more.**
+Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), was working at the intersection of  Machine Learning, Statistics, Computer Social science and Scientific computing. Recently I completed my first postdoc. in social computing. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I am a fan of C++ and open source advocate. These days I am dabbling quantum computing, deep learning. **Please note other parts of my homepage are bits out of dated. My Linkedin page is perhaps more updated where I frequently exchange thoughts in the relevant communities of AI, Quantum, Maths, C++ and more.**
 
 **Research interests**: 
 
@@ -16,7 +16,7 @@ Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Tec
 
 * Data-driven Scientific Computing
 
-* Bayesian Deep Learning
+* Bayesian Deep Learning/Reinforcement Learning
 
 * Blockchain applications to Smart cities (Renewable energy, QC, IoT)
 
