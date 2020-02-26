@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a visiting Researcher @ [UTS Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science). I was working at the intersection of  Machine Learning, Statistics, Computer Social science and Scientific computing. Recently I completed my first postdoc. in social computing. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I have been a C++ fan, an open source advocate. These days I have been thinking about some problems in theoretical computer science, am also dabbling quantum computing and deep learning. **Please note other parts of my homepage are bits out of dated. My Linkedin page is perhaps more updated where I frequently exchange thoughts in the relevant communities of AI, Quantum, Maths, C++ and more.**
+Hi! I am a Mathematician and a research scientist @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). I am currently working at the interface of theoretical computer science and electrical engineering. I primarily work with the extend C++ library of INSEL engine to a undirected graph concepts, which could be used to model multimodal networks of electricity, gas and water. I completed my last postdoc in computer social media, FEIT, UTS. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. 
 
 **Research interests**: 
+
+* Graph theory and algorithms
 
 * Quantum Computing, Quantum game theory, Information Geometry, Quantum Machine Learning
 
