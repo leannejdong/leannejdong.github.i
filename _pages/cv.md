@@ -28,10 +28,12 @@ Work experience
   * Teaching focus: Advanced Applied Mathematics, Real Analysis and Linear Algebra, Statistics, Data Science, Machine Learning
 
 * 2019: Research Associate at FEIT, UTS (Computer Social Science)
+
+* 2020-2022: Postdoctoral Research Fellow at Concordia University (Computer science, Engineering)
   
 Skills
 ======
-* Technical skills: C++/C (3 years, favorite), Matlab (2 years), Python (1 year); Excel VBA (2 years), R (8 years), Mathematica (7 years), Git, HPC (interactive and queue based)
+* Technical skills: C++/C (5 years, favorite), Matlab (2 years), Python (2 year); Excel VBA (2 years), R (9 years), Mathematica (7 years), Git, HPC (interactive and queue based)
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
@@ -42,7 +44,7 @@ Skills
   * Risk, pricing and hedging
   * Stress testing
   * Market risk (VaR, PaR, Greeks) 
-  * credit risk (PD, LGD, EAD; PFE, CVaR)
+  * Credit risk (PD, LGD, EAD; PFE, CVaR)
   * Volatility & correlation models
   * Dependence Modelling via copulae
   
