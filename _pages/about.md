@@ -14,15 +14,15 @@ Hi! I am a Mathematician and a Postdoc research scientist @ [Concordia Universit
 
 * Graph theory and algorithms
 
-* Deep Learning on PDEs/SPDEs; Machine Learning of Optimal Transport
+* Physical informed Deep Learning
+
+* C++ programming for scientific computing
 
 * Explainable AI (XAI), Intepretable Machine Learning
 
 * Theory of Computational Complexity
 
 * Quantum Computing, Quantum game theory, Information Geometry, Quantum Machine Learning
-
-* Numerical Analysis; Data-driven Scientific Computing
 
 * Theoretical or Statistical Machine Learning
 
