@@ -33,7 +33,7 @@ Work experience
   
 Skills
 ======
-* Technical skills: C++/C (5 years, favorite), Matlab (2 years), Python (2 year); Excel VBA (2 years), R (9 years), Mathematica (7 years), Git, HPC (interactive and queue based)
+* Technical skills: C++/C, Matlab, Python, R, Excel VBA (2 years), Mathematica, Git, HPC (interactive and queue based)
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
@@ -51,9 +51,8 @@ Skills
 * Machine learning & Data Mining:
   * Classification: support vector machines (SVM), decision trees       
   * Prediction: regressions; Clustering: k-means, PAM
-  * Deep learning: Artificial neural networks via Feedforward backpropagation, Tensorflow, Keras, PyTorch
+  * Deep learning: Probalistic inferencing, Tensorflow, Keras, PyTorch, Pyro
   * Dimension reduction: principal component analysis (PCA), factor analysis
-  * Natural processing language (NPL) for unstructured data
   
 Links
 -----
