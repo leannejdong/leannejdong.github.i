@@ -24,7 +24,7 @@ Work experience
 * Summer 2009: Assistant Vice President
   * American International Assurance (AIA, GuangZhou Head Quarter)
 
-* 2011-Current: Sessional Tutor and Lecturer in UTS and USYD
+* 2011-2020: Sessional Tutor and Lecturer in UTS and USYD
   * Teaching focus: Advanced Applied Mathematics, Real Analysis and Linear Algebra, Statistics, Data Science, Machine Learning
 
 * 2019: Research Associate at FEIT, UTS (Computer Social Science)
@@ -33,7 +33,7 @@ Work experience
   
 Skills
 ======
-* Technical skills: C++/C, Matlab, Python, R, Excel VBA (2 years), Mathematica, Git, HPC (interactive and queue based)
+* Technical skills: C++/C, Matlab, Python, R, Mathematica, Git, HPC (interactive and queue based)
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
