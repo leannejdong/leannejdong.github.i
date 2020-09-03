@@ -87,9 +87,9 @@ author:
   employer         : "Concordia University"
   pubmed           : 
   googlescholar    : 
-  email            : "leanne.dong (at) uts.edu.au"
+  email            : "leanne.dong (at) concordia.ca"
   researchgate     : "https://www.researchgate.net/profile/Leanne_Dong"
-  uri              : "https://www.uts.edu.au/staff/leanne.dong"
+ # uri              : "https://www.uts.edu.au/staff/leanne.dong"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -108,7 +108,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           : "levynoise"
   twitter          : 
   vine             :
   weibo            :
