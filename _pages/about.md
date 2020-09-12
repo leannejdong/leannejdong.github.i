@@ -10,23 +10,22 @@ redirect_from:
 
 Hi! I am a Mathematician, Postdoctoral C++ developer @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). I mainly work on C++ implementation of networks, as well as moving the development of [INSEL](https://www.insel.eu/en/) C++ Engine towards a undirected graph extension. On other hand, I am doing some research on explainable artificial intelligence with an aim to help the software community. I completed my last postdoc in computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
 
-**Research interests**: 
+**Topics of interests**: 
 
 * Graph theory and algorithms
 
-* Modern C++
+* C++ (Mostly modern, post-modern)
 
-* Explainable AI (XAI), Intepretable Machine Learning
+* Deep Learning and its intepretability
 
-* Probablistic programming/inferencing
+
+**Past Interests**
 
 * Mathematical Analysis of Artificial Intelligence and Theoretical Computer Science
 
 * Theoretical or Statistical Machine Learning
 
 * Stochastic PDEs, Financial Mathematics
-
-**Side Interests**
 
 * Quantum Computing, Quantum game theory, Information Geometry, Quantum Machine Learning
 
