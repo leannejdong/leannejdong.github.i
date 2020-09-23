@@ -12,9 +12,9 @@ Hi! I am a Mathematician, Postdoctoral C++ developer @ [Concordia University, Sc
 
 Currently, two main themes of my research are:
 
-** [INSEL](https://www.insel.eu/en/) compiler **
+** INSEL compiler **
 
-* Extend the compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
+* Extend the [INSEL](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
 
 * Loop detections (with lots of sparsity)
@@ -23,7 +23,7 @@ identified by their block numbers;
 
 * Equation solving
 
-** Theorectical and Interpretable Machine Learning
+** Theorectical and Interpretable Machine Learning **
 
 Motivated from the celebrated work of Prof. Cynthia Rudin, these days I have been studying a rule-based approach to Machine Learning with optimal decision tree.
 Decision tree can be viewed as an optimization problem with the objective of
