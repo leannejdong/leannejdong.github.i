@@ -36,7 +36,7 @@ They are exponentially easier to create than the full-blown decision trees and b
 i.e. NP hard with no polynomial time to approximation. Hence they are very hard optimization problem.
 With modern computational power, we can solve optimal decision list with reasonable large dataset in a reasonable amount of time.
 
-More recently, I have looking at Sparse decision tree approach. The key difference between decision trees and decision lists is that the former may be viewed as unordered  rule sets, where each leaf of the tree corresponds to a single rule with a condition part consisting of the conjunction of all edge labels on the path from the root to this leaf.
+More recently, I have been looking at a generalized Sparse decision tree approach. The key difference between decision trees and decision lists is that the former may be viewed as unordered  rule sets, where each leaf of the tree corresponds to a single rule with a condition part consisting of the conjunction of all edge labels on the path from the root to this leaf.
 
 **Topics of interests**: 
 
