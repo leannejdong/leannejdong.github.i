@@ -12,7 +12,7 @@ Hi! I am a Mathematician, Postdoctoral C++ developer @ [Concordia University, Sc
 
 Currently, two main themes of my research are:
 
-**INSEL compiler**
+**Compiler**
 
 * Extend the [INSEL](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
@@ -21,7 +21,7 @@ identified by their block numbers;
 
 * Automate system of equations
 
-* Equation solving
+* Develop numeric solver for nonlinear system of equations
 
 **Theorectical and Interpretable Machine Learning**
 
@@ -44,7 +44,9 @@ More recently, I have been looking at a generalized Sparse decision tree approac
 
 * C++ (Mostly modern, post-modern)
 
-* M/D Learning intepretability
+* Data structures and algorithms
+
+* Machine/Deep Learning intepretability
 
 
 <!---
