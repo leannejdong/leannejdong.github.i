@@ -12,7 +12,7 @@ Hi! I am a Mathematician, Postdoctoral C++ developer @ [Concordia University, Sc
 
 Currently, two main themes of my research are:
 
-**Compiler**
+**Compiler for a domain specific programming language**
 
 * Extend the [INSEL](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
