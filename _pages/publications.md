@@ -24,7 +24,7 @@ author_profile: true
 
 [Dong, L.J., "Strong solutions for the Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, Journal of Mathematical Analysis and Applications; 489 (2)](http://www.sciencedirect.com/science/article/pii/S0022247X20303449)
 
-[Dong, L.J., "Random Attractors for Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, Accepted for publication](https://arxiv.org/abs/1811.10532)
+[Dong, L.J., "Random Attractors for Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, Discrete & Continuous Dynamical Systems - B](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020352)
 
 
 [Dong, L.J., "Invariant Measures for the Stochastic Navier-Stokes equation on a 2D rotating sphere with stable Lévy noise”, ArXiv Preprint](https://arxiv.org/abs/1812.05513)
