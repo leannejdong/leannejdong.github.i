@@ -23,7 +23,7 @@ identified by their block numbers;
 
 * Automate system of equations
 
-* Numerical solving  nonlinear system of equations
+* Generic numerical algorithms for  solving  nonlinear system of equations
 
 **Theorectical and Interpretable Machine Learning**
 
