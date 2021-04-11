@@ -44,6 +44,10 @@ additional subsets. Each subset decides the best feature to split. Once enough s
 
 * Priority queue. For scheduling problems.
 
+The existing GOSDT algorithm works only for binary features, which may not be ideal for training data with multiple features. During part of my fellowship, I developed a C++ implememntation that converts the binary decision tree to n-ary tree decision tree with the existing parallelism. See [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev) for C++ implementations.
+
+At the moment, I seek to develop a full n-ary approach by optimizing the space of n-ary trees. Meanwhile, I seek for more efficient implementation that takes the advantages of the parallelism GOSDT provides.
+
 **Topics of interests**: 
 
 * Graph theory and algorithms
