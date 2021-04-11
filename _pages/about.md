@@ -27,18 +27,22 @@ identified by their block numbers;
 
 **Theorectical and Interpretable Machine Learning**
 
-Motivated from the celebrated work of Prof. Cynthia Rudin, these days I have been studying a rule-based approach to Machine Learning with optimal decision tree.
-Decision tree can be viewed as an optimization problem with the objective of
-maximize accuracy subjects to a constraint on the size of the decision tree (DT).
-The most popular algorithm is DT4.5 date back to the 90s. The algorithm doesn't work very well which motivated some modernization of DT algorithms
+Decision trees have been a popular Machine Learning model dates back to the 90s due to its interpretability. One starts with a simple tree, keep branching out
+to improve its accuracy. Stopping conditions are applied to  avoid overfitting. The problem of this approach is, if we chose the wrong split at the beginning, there is no way
+to un-do it. Historically, mathematical optimization solvers have been used to circumvent overfitting. However, in order to fully optimize the decision trees, one has to step through 
+a search space both in theory and practice hard.(Full optimality of decison tree has been well-known as a NP-hard problem)
+I follow a specialized algorithm developed in [GOSDT](https://arxiv.org/abs/2006.08690) that combines dynamic programming and branch and bound to optimize a generalize objective.
+The objective function consists of a sparsity term that penalize the number of leaves in the tree. The resulting trees depend on the choice of loss functions.
+Here are a few features of the GOSDT algorithms
 
-One approach is through optimal decision list. The goal is to globally optimize all possible decision lists.
-That is, to minimize the loss subject to the model being sparse. Decision list is a one-sided DT and so it is a series of if-then rules.
-They are exponentially easier to create than the full-blown decision trees and both DT and decision list to create them optimally is computationally hard,
-i.e. NP hard with no polynomial time to approximation. Hence they are very hard optimization problem.
-With modern computational power, we can solve optimal decision list with reasonable large dataset in a reasonable amount of time.
+* Analytical bounds. The collection of bounds allow us to skip over a large portion of the search space
 
-More recently, I have been looking at a generalized Sparse decision tree approach. The key difference between decision trees and decision lists is that the former may be viewed as unordered  rule sets, where each leaf of the tree corresponds to a single rule with a condition part consisting of the conjunction of all edge labels on the path from the root to this leaf.
+* Dynamic programming. Split dataset into subsets until higher accuracy is achieved. The solution for one duplicated instance can be used for another.
+
+* Dependency graph. The DP formulation creates a dependency graph between sets and subsets. Each set is responsible for finding optimal features to sub-divide itself into 
+additional subsets. Each subset decides the best feature to split. Once enough subsets decided, the optimal tree will emerge as DAG of the best features.
+
+* Priority queue. For scheduling problems.
 
 **Topics of interests**: 
 
