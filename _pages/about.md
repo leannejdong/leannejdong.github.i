@@ -14,7 +14,7 @@ Currently, two main themes of my research are:
 
 **District Heating and Electricity Networks**
 
-* Extend the [INSEL](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
+* Extend the [INSEL(integrated simulation environment language)](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
 
 * Undirected Graph Parser
