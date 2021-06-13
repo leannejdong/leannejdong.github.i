@@ -12,7 +12,7 @@ Hi! I am a Mathematician, Postdoctoral developer @ [Concordia University, School
 
 Currently, two main themes of my research are:
 
-**Compiler for a domain specific programming language**
+**District Heating and Electricity Networks**
 
 * Extend the [INSEL](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
@@ -23,7 +23,7 @@ identified by their block numbers;
 
 * Automate system of equations
 
-* Generic numerical algorithms for  solving  nonlinear system of equations
+* Generic solver for Nonlinear Networks
 
 **Theorectical and Interpretable Machine Learning**
 
@@ -52,9 +52,9 @@ At the moment, I seek to develop a full n-ary approach by optimizing the space o
 
 * Graph theory and algorithms
 
-* C++ (Mostly modern, post-modern)
+* C++ (Non-ancient)
 
-* Data structures and algorithms
+* Scientific computing for partial differential equations
 
 * Machine/Deep Learning intepretability
 
