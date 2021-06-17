@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Mathematician, Postdoctoral developer @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). I completed my last postdoc in computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
+Hi! I am a Mathematician, Postdoctoral developer @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My current research focus on district heating and cooling network and interpretable Machine Learning. I completed my last postdoc in computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
 
 Currently, two main themes of my research are:
 
@@ -17,9 +17,11 @@ Currently, two main themes of my research are:
 * Extend the [INSEL(integrated simulation environment language)](https://www.insel.eu/en/) compiler functionality to sort the model of an undirected graph, that is, the order the nodes and edges represented by blocks
 identified by their block numbers;
 
+* Build network graph topology.
+
 * Undirected Graph Parser
 
-* Loop detections (with lots of sparsity)
+* Loop detections 
 
 * Automate system of equations
 
