@@ -31,7 +31,7 @@ Work experience
 
 * 2020-2022: Postdoctoral Research Fellow at Concordia University (Computer science, Engineering)
   
-Skills
+Skills (OUTDATED!!!)
 ======
 * Technical skills: C++/C, Matlab, Python, R, Mathematica, Git, HPC (interactive and queue based)
 
@@ -57,6 +57,6 @@ Skills
 Links
 -----
 
-[CV_Long](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneJD.pdf)
+[CV_Long](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/cv_2020.pdf)
 
 [CV_Short](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneCV_industry.pdf)
