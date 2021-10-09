@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a Mathematician, a postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). At my postdoc, I developed an undirected graph concept for hydraulic-thermal network, extension of a DSL compiler for renewable energy and a CLI application for multiway sparse decison tree optimization. At my first postdoc, I worked on computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
 
-Outside my postdoc, I collaborate with friends for open source software development. Recently, I built an asynchronous software development kit library to the REST API for trading cryptocurrency. 
+Outside my postdoc, I collaborate with friends for open source software development. Recently, I built an asynchronous software development kit[sdk](https://github.com/bitwyre/sdk) library to the REST API for trading cryptocurrency. 
 
 Currently, two main themes of my research are:
 
