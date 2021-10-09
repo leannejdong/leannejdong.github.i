@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a Mathematician, a postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). At my postdoc, I developed an undirected graph concept for hydraulic-thermal network, extension of a DSL compiler for renewable energy and a CLI application for multiway sparse decison tree optimization. At my first postdoc, I worked on computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
 
-Outside my postdoc, I collaborate with friends for open source software development. Recently, I built an asynchronous software development kit library to the REST API for trading currency. 
+Outside my postdoc, I collaborate with friends for open source software development. Recently, I built an asynchronous software development kit library to the REST API for trading cryptocurrency. 
 
 Currently, two main themes of my research are:
 
@@ -28,6 +28,8 @@ identified by their block numbers;
 * Automate system of equations
 
 * Generic solver for Nonlinear Networks
+
+* Integration of network simulation solver to the Urban Modelling Platform 
 
 **Theorectical and Interpretable Machine Learning**
 
@@ -50,7 +52,7 @@ additional subsets. Each subset decides the best feature to split. Once enough s
 
 The existing GOSDT algorithm works only for binary features, which may not be ideal for training data with multiple features. During part of my fellowship, I developed a C++ implememntation that converts the binary decision tree to n-ary tree decision tree with the existing parallelism. See [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/dev) for C++ implementations.
 
-At the moment, I seek to develop a full n-ary approach by optimizing the space of n-ary trees. Meanwhile, I seek for more efficient implementation that takes the advantages of the parallelism GOSDT provides.
+At the moment, I'm wrapping up my postdoc project, preparing a new chapter of my life in London next year. I'll join [ARRIVAL](https://arrival.com/world/en) as a robotic software engineer.
 
 **Topics of interests**: 
 
