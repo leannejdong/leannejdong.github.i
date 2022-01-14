@@ -55,8 +55,6 @@ additional subsets. Each subset decides the best feature to split. Once enough s
 
 The existing GOSDT algorithm works only for binary features, which may not be ideal for training data with multiple features. During part of my fellowship, I developed a C++ implememntation that converts the binary decision tree to n-ary tree decision tree with the existing parallelism. See [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/async) for C++ implementations.
 
-Now it comes to the end of my postdoc project, preparing a new chapter of my life in London in 2022. I'm joining [ARRIVAL](https://arrival.com/world/en) as a robotic software engineer with focus on modern C++ and Linux.
-
 **Topics of interests**: 
 
 * Graph theory and algorithms
