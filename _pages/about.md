@@ -59,12 +59,9 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 * Graph theory and algorithms
 
-* C++ (Non-ancient)
+* C++ (Non-ancient) : Real-time low latency
 
 * Scientific computing for partial differential equations
-
-* Machine/Deep Learning intepretability
-
 
 <!---
 
