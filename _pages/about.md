@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Mathematician and a freelance software engineer. Currently I work in the Fintech domain
-for open source software development. Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp/source) to the RESTful API for financial trading. Currently I'm building trading bots (both sync, async) based on my developed SDK.
+Hi! I am a Mathematician and a freelance software engineer. I work in the Fintech domain
+for open source software development. Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. Currently I'm building trading bots (both sync, async) based on my developed SDK.
 
 I have a wide range of interests, from hard core engineering, architectural design of software, backend to frontend development. Currently I'm open for interesting software collaborations.
 
