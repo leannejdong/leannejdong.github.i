@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Research Profile"
 title_separator          : "-"
 name                     : &name "Leanne Dong"
-description              : &description "Research in Stochastic Analysis and Machine Learning"
+description              : &description "Software Engineer"
 url                      : https://leannejdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leannejdong/leannejdong.github.io"
@@ -84,12 +84,12 @@ author:
   avatar           : "leanne_dong.jpg"
   bio              : "Software Engineer, Mathematician"
   location         : "Kiama, Australia"
-  employer         : "Concordia University"
+  employer         : "Independent"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=mdaEIxgAAAAJ&view_op=list_works&gmla=AJsN-F7OstTM-zBNbDHyBESM-eS23KI69DWPJYsAdjN97rZWXpw6qTb1uT1W1IjoIrcnR-Eip_qvQgKMrfMEsn1ETOkXSphCUK2fjCRc_w2pdGJmrt1fymo"
-  email            : "leanne.dong (at) concordia.ca"
+  email            : "jdleanne@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Leanne_Dong"
-  uri              : "https://www.concordia.ca/research/chairs/smart-cities/people/postdoctoral-fellows.html"
+  uri              : #"https://www.concordia.ca/research/chairs/smart-cities/people/postdoctoral-fellows.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           : 
-  twitter          : "levynoise"
+  twitter          : #""
   vine             :
   weibo            :
   xing             :

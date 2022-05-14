@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Mathematician and a freelance software engineer. I work in the Fintech domain
-for open source software development. Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. Currently I'm building trading bots (both sync, async) based on my developed SDK.
+Hi! I am an independent audio software engineer with background in Mathematics. Currently I work on the proprietary software testing and analysis on music information processing/audio detections at tonicbits.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. Currently I'm building trading bots (both sync, async) based on my developed SDK.
 
-I have a wide range of interests, from hard core engineering, architectural design of software, backend to frontend development. Currently I'm open for interesting software collaborations.
+Despite I was trained in mostly in hardcore disciplines such as maths, science and engineering. Personally, I'm mostly passionate about music and art applications.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
