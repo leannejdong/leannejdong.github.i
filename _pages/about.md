@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent audio software engineer with background in Mathematics. Currently I work on the proprietary software testing and analysis on music information processing/audio detections at tonicbits.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. Currently I'm building trading bots (both sync, async) based on my developed SDK.
+Hi! I am an independent audio software engineer with background in Mathematics. Currently I work on the proprietary software testing and analysis on music information retrieval/audio detections at tonicbits.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. 
 
-Despite I was trained in mostly in hardcore disciplines such as maths, science and engineering. Personally, I'm mostly passionate about music and art applications.
+Despite I was trained in mostly in STEM disciplines such as maths, science and engineering. Personally, I'm mostly passionate about music and art applications.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
@@ -18,7 +18,7 @@ Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Co
 
 At my postdoc, I developed an undirected graph concept for hydraulic-thermal network, extension of a DSL compiler for renewable energy and a CLI application for multiway sparse decison tree optimization. At my first postdoc, I worked on computer social media. I built dependence structure between labor occupation based on job counts data,  using copulae. I also developed a theoretical model based on hawkes intensity point processes allows fitting information diffusion based on observed counts of events. The main tools we used were functional analysis and distribution theory. I completed my [PhD](https://www.maths.usyd.edu.au/ut/people?who=LJ_Dong) in early 2018 on the topic of stochastic Navier-Stokes equations on the rotating spheres with stable Lévy noise, under supervision of Prof. Beniamin Goldys, the univeristy of Sydney. I have been teaching in universities on various topics for roughly 10 years. Prior to my PhD, I was a researcher in quantitative finance and stochastic processes.
 
-Two main themes of my last postdoc research were:
+Two main themes of my LAST postdoc research were:
 
 **District Heating and Electricity Networks**
 
