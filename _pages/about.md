@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent audio software engineer working at tonibits. Currently I work on the proprietary software testing and analysis on music information retrieval/audio detections.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading. 
+Hi! I am an independent software engineer from Australia. Currently I work on the proprietary software testing and analysis on music information retrieval/audio detections.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
 
-I was trained in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Software Engineering in music technology applications.
+I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Software Engineering in music technology applications.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
@@ -62,13 +62,15 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 * Audio Plug-in development
 
-* Modern C++ interfaces DevOps
-
 * Audio Software development on Linux or embedded platform
+
+* Audio detections, DSP
 
 * C++ (Non-ancient) : Real-time low latency
 
 * Scientific computing
+
+
 
 <!---
 
