@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent software engineer from Australia. Currently I work on the proprietary software testing and analysis on music information retrieval/audio detections.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
+Hi! I am an independent C++ software engineer from Australia. I own a software venture called SpaceTimeNoise. Lately I have been working with audio detection and processing for a music technology client. Currently I'm working with computer graphics and machine vision application.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
 
 I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Software Engineering in music technology applications.
 
