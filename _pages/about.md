@@ -8,9 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent C++ software engineer from Australia. I own a software venture called SpaceTimeNoise. Lately I have been working with audio detection and processing for a music technology client. Currently I'm working with computer graphics and machine vision application.  Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
+Hi! I am an independent C++ software engineer from Australia. I own a software venture called SpaceTimeNoise.
 
-I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Software Engineering in music technology applications.
+
+Currently Mandates
+ 
+ - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
+ 
+ - Hardware/Blockchain secured audit/logging, netwoking
+ 
+ - DeFi option pricing, volatility modelling
+ 
+My last role was a audio developer  working with audio detection and processing for a music technology client.
+  
+Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
+
+I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Blockchain, Software Engineering for music technology applications.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
@@ -68,8 +81,9 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 * C++ (Non-ancient) : Real-time low latency
 
-* Scientific computing
+* Rust combined with other modern languages/framework
 
+* Networking, Blockchain secured audit, smart contract development, P2P/P2e networks, Websocket servers
 
 
 <!---
