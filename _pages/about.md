@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent C++ software engineer from Australia. I own a software venture called SpaceTimeNoise.
+Hi! I am an independent software engineer (Mostly C++, Rust, JS) from Australia. I own a software venture called SpaceTimeNoise. I'm passionate about bringing blockchain/web3/metaverse/DeFi technology into computer music/art/multimedia. 
 
-
-Currently Mandates
+Current mandates
  
  - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
  
