@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an independent software engineer (Mostly C++, Rust, JS) from Australia. I own a software venture called SpaceTimeNoise. I'm passionate about bringing blockchain/web3/metaverse/DeFi technology into computer music/art/multimedia. 
+Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing blockchain/web3/metaverse/DeFi technology into computer music/art/multimedia. 
 
-Current mandates
+My latest lines of work involve
  
  - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
  
@@ -84,6 +84,7 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 * Networking, Blockchain secured audit, smart contract development, P2P/P2e networks, Websocket servers
 
+While I'm not at my desk, I'm possibly hosting my dance studio and exploring music production.
 
 <!---
 
