@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing blockchain/web3/metaverse/DeFi technology into computer music/art/multimedia. 
+[My personal homepage is out of maintenance!]
+
+Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing next generation decentalized technology into computer music/art/multimedia.
 
 My latest lines of work involve
  
  - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
  
- - Hardware/Blockchain secured audit/logging, netwoking
+ - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
  
  - DeFi option pricing, volatility modelling
  
