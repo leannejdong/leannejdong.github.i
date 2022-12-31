@@ -10,7 +10,7 @@ redirect_from:
 
 [My personal homepage is out of maintenance!]
 
-Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing next generation decentalized technology into computer music/art/multimedia.
+Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing next generation decentalized technology into computer music/art/multimedia. Currently I work as a C++ developer in volmex lab help building the backend (server-side) operation from ground up with C++. I spend fair amount of time working on networking protocols and multi-languages code/frameworks migrations.
 
 My latest lines of work involve
  
