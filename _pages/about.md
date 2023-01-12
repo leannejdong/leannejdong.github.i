@@ -10,16 +10,14 @@ redirect_from:
 
 [My personal homepage is out of maintenance!]
 
-Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. I'm passionate about bringing next generation decentalized technology into computer music/art/multimedia. Currently I work as a C++ developer in volmex lab help building the backend (server-side) operation from ground up with C++. I spend fair amount of time working on networking protocols and multi-languages code/frameworks migrations.
+Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. Currently I work as a C++ consultant in volmex lab help building C++ backend for volatility index computations.
 
 My latest lines of work involve
  
  - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
  
  - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
- 
- - DeFi option pricing, volatility modelling
- 
+  
 My last role was a audio developer  working with audio detection and processing for a music technology client.
   
 Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
@@ -85,8 +83,6 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 * Rust combined with other modern languages/framework
 
 * Networking, Blockchain secured audit, smart contract development, P2P/P2e networks, Websocket servers
-
-While I'm not at my desk, I'm possibly hosting my dance studio and exploring music production.
 
 <!---
 
