@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Commerce (Major in Accounting, Minor in Economics), Macquarie University, 2005
+* Bachelor of Art (Accounting, Economics), Macquarie University, 2005
 * M.S. in Finance (Specialised in Investment Banking), UNSW, 2008
 * Bachelor of Mathematics (with First Class Honours in Mathematical Finance), UTS, 2011
 * Ph.D in Theorectical Probability, The University of Sydney, 2018 
@@ -30,10 +30,18 @@ Work experience
 * 2019: Research Associate at FEIT, UTS (Computer Social Science)
 
 * 2020-2022: Postdoctoral Research Fellow at Concordia University (Computer science, Engineering)
+
+* 2021: Freelance C++ developer (trading)
+
+* 2022: Independent C++ developer in multiple industries (Robotic, Music Technology, FinTech)
   
 Skills (OUTDATED!!!)
 ======
-* Technical skills: C++/C, Matlab, Python, R, Mathematica, Git, HPC (interactive and queue based)
+* Technical skills: C++98, 11, 14, 17, 20, C, Rust, Javascript, Python, R, Matlab, Mathematica, Git, HPC (interactive and queue based)
+
+* Art/Music Tech
+  * Music Chord Theory/Audio detection algorithms
+  * Algorithmic Music theory
 
 * Applied Mathematics
   * Monte Carlo simulations, MCMC
@@ -53,10 +61,11 @@ Skills (OUTDATED!!!)
   * Prediction: regressions; Clustering: k-means, PAM
   * Deep learning: Probalistic inferencing, Tensorflow, Keras, PyTorch, Pyro
   * Dimension reduction: principal component analysis (PCA), factor analysis
-  
-Links
+<!---
+Links (Highly outdated)
 -----
 
 [CV_Long](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/cv_2020.pdf)
 
 [CV_Short](https://github.com/leannejdong/leannejdong.github.io/blob/master/files/LeanneCV_industry.pdf)
+-->
