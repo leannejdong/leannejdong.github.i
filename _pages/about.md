@@ -10,9 +10,11 @@ redirect_from:
 
 [My personal homepage is out of maintenance!]
 
-Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. Currently I work as a C++ consultant in volmex lab help building C++ backend for volatility index computations.
+Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. Currently I work as a freelance C++ backend consultant. 
 
-My latest lines of work involve
+My experience involve
+
+ - Data oriented C++ consulting 
  
  - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
  
