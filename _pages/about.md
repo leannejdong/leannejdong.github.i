@@ -10,14 +10,13 @@ redirect_from:
 
 [My personal homepage is out of maintenance!]
 
-Hi! I am a remote software engineer (Mostly C++, Rust, JS) from Australia. Currently I work as a freelance C++ backend consultant. 
+Hi! I am an audio software engineer (Mostly C++, JUCE) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer. 
 
 My experience involve
+ - C++, JUCE audio programming consulting
 
  - Data oriented C++ consulting 
- 
- - building a web3 based music creation ecosystem with Rust, C++, Javascript and other technology.  
- 
+  
  - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
   
 My last role was a audio developer  working with audio detection and processing for a music technology client.
@@ -80,11 +79,9 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 * Audio detections, DSP
 
-* C++ (Non-ancient) : Real-time low latency
+* Audio oriented infrastructure
 
 * Rust combined with other modern languages/framework
-
-* Networking, Blockchain secured audit, smart contract development, P2P/P2e networks, Websocket servers
 
 <!---
 
