@@ -87,9 +87,9 @@ author:
   employer         : "Independent"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=mdaEIxgAAAAJ&view_op=list_works&gmla=AJsN-F7OstTM-zBNbDHyBESM-eS23KI69DWPJYsAdjN97rZWXpw6qTb1uT1W1IjoIrcnR-Eip_qvQgKMrfMEsn1ETOkXSphCUK2fjCRc_w2pdGJmrt1fymo"
-  email            : "jdleanne@gmail.com"
+  email            : "leanne@spacetimenoise.dev"
   researchgate     : "https://www.researchgate.net/profile/Leanne_Dong"
-  uri              : #"https://www.concordia.ca/research/chairs/smart-cities/people/postdoctoral-fellows.html"
+  uri              : "https://www.concordia.ca/research/chairs/smart-cities/people/postdoctoral-fellows.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,10 +99,10 @@ author:
   github           : "leannejdong"
   google_plus      :
   keybase          :
-  instagram        : "levynoise"
+  instagram        : #"levynoise"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "leanne-j-dong/"
+  linkedin         : #"leanne-j-dong/"
   orcid            : "http://orcid.org/0000-0003-1153-1598"
   pinterest        :
   soundcloud       : 
