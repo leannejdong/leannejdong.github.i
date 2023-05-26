@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-[My personal homepage is out of maintenance!]
+[Online presence: Email, Github and Fosstodon]
 
 Hi! I am an audio software engineer (Mostly C++, JUCE) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer. 
 
 My experience involve
  - C++, JUCE audio programming consulting
 
+ - Scientific prototyping
+
  - Data oriented C++ consulting 
   
  - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
   
-My last role was a audio developer  working with audio detection and processing for a music technology client.
+My last role was a audio developer working with audio detection and processing for a music technology client.
   
 Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
 
