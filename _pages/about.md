@@ -10,10 +10,10 @@ redirect_from:
 
 [Online presence: Email, Github and Fosstodon]
 
-Hi! I am an audio software engineer (Mostly C++, JUCE) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer. 
+Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware consulting.
 
 My experience involve
- - C++, JUCE audio programming consulting
+ - C++, JUCE audio programming and algorithm consulting
 
  - Scientific prototyping
 
@@ -21,9 +21,10 @@ My experience involve
   
  - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
   
-My last role was a audio developer working with audio detection and processing for a music technology client.
+My last few roles focus on backend C++ developments in both music and finance industry.
   
-Last year, I built an asynchronous software development kit library [sdk](https://github.com/bitwyre/sdk/tree/develop/cpp) to the RESTful API for financial trading.
+I have over hundred personal/academic C++ based software at https://github.com/leannejdong?tab=repositories .
+Some others work items are under NDA during my work in the music and technology sectors.
 
 I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Blockchain, Software Engineering for music technology applications.
 
@@ -75,15 +76,13 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 
 **Topics of interests**: 
 
+* Mathematics, algorithms, Machine Learning
+* Computer graphics, Multimedia technology
+* Audio hardware emulation
 * Audio Plug-in development
-
 * Audio Software development on Linux or embedded platform
-
 * Audio detections, DSP
-
 * Audio oriented infrastructure
-
-* Rust combined with other modern languages/framework
 
 <!---
 
