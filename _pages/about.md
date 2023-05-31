@@ -8,23 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-[Online presence: Email, Github and Fosstodon]
+Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under non disclosable agreement with [Relab](https://relabdevelopment.com/). As a PhD Mathematician, I'm also intended to return to education as a casual basis.
 
-Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware consulting.
-
-My experience involve
+My industry experience involve
  - C++, JUCE audio programming and algorithm consulting
 
  - Scientific prototyping
 
- - Data oriented C++ consulting 
-  
- - Hardware enclave, Blockchain secured audit/immutable logging, netwoking
-  
+ - Data oriented backend C++ consulting 
+    
 My last few roles focus on backend C++ developments in both music and finance industry.
   
-I have over hundred personal/academic C++ based software at https://github.com/leannejdong?tab=repositories .
+I have over hundred personal/academic C++ based software at [github](https://github.com/leannejdong?tab=repositories) .
 Some others work items are under NDA during my work in the music and technology sectors.
+
+During 2022 I worked on music information retrival, audio detection, linux compatibility of [Scaler2](https://www.scalerplugin.com/). As well as backend C++ consulting in the multimedia/soft robotic and fintech industries.
 
 I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Blockchain, Software Engineering for music technology applications.
 
@@ -83,6 +81,9 @@ The existing GOSDT algorithm works only for binary features, which may not be id
 * Audio Software development on Linux or embedded platform
 * Audio detections, DSP
 * Audio oriented infrastructure
+
+I participated in C++ conference in the past. [cppcon](https://cppcon2018.sched.com/leanne.dong)
+I am a C++ developer. Though by heart and training, I'm more of a Mathematician, passionate about teaching young people how to be a good person and concerning about our society fair a bit.
 
 <!---
 
