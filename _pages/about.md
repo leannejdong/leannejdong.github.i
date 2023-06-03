@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under non disclosable agreement with [Relab](https://relabdevelopment.com/). As a PhD Mathematician, I'm also intended to return to education as a casual basis.
+Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under strict NDA with [Relab development](https://relabdevelopment.com/). As a PhD Mathematician, I'm also intended to return to education as a casual basis.
 
 My industry experience involve
  - C++, JUCE audio programming and algorithm consulting
@@ -24,7 +24,7 @@ Some others work items are under NDA during my work in the music and technology 
 
 During 2022 I worked on music information retrival, audio detection, linux compatibility of [Scaler2](https://www.scalerplugin.com/). As well as backend C++ consulting in the multimedia/soft robotic and fintech industries.
 
-I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm mostly passionate about Blockchain, Software Engineering for music technology applications.
+I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm working on independent audio engineering research. I'm mostly passionate about data driven audio plugins development and hardware. I'm hoping to return to Mathematics for teaching at casual basis, if I can be given a chance again.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
