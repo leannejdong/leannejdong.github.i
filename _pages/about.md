@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under strict NDA with [Relab development](https://relabdevelopment.com/). As a PhD Mathematician, I'm also intended to return to education as a casual basis.
+Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under strict NDA. As a PhD Mathematician, I'm also intended to return to education as a casual basis.
 
 My industry experience involve
  - C++, JUCE audio programming and algorithm consulting
