@@ -8,23 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an audio software engineer (Mostly C++, JUCE and Matlab) working remotely from Australia. Currently I work as a freelance C++/JUCE audio developer and audio hardware collaboration under strict NDA. 
+Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently open to opportunities in all STEM domains.
+In the past years, I worked as a freelance C++ developer and audio hardware collaboration under strict NDA. 
 
 My industry experience involve
+ - Teaching technology with children
+ - Technical consulting
  - C++, JUCE audio programming and algorithm consulting
-
  - Scientific prototyping
-
  - Data oriented backend C++ consulting 
     
-My last few roles focus on backend C++ developments in both music and finance industry.
+My last few roles focus on backend C++ developments in multiple industries such as logistic, music and fintech.
+I also spent a couple of months worked as an educator and coding instructor for young children.
   
 I have over hundred personal/academic C++ based software at [github](https://github.com/leannejdong?tab=repositories) .
 Some others work items are under NDA during my work in the music and technology sectors.
 
 During 2022 I worked on music information retrival, audio detection, linux compatibility of [Scaler2](https://www.scalerplugin.com/). As well as backend C++ consulting in the multimedia/soft robotic and fintech industries.
 
-I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm working on independent audio engineering research. I'm mostly passionate about data driven audio plugins development and hardware. I'm hoping to return to Mathematics for teaching at casual basis, if I can be given a chance again.
+I was educated in mostly in STEM disciplines (PhD maths, 2 Postdocs in Computer Science and Engineering). At the present state, I'm working toward expanding my depth as a technologist while helping kids and students study maths and learning to code.
 
 Formerly (between 2020-2022) I was an industry postdoc researcher working  @ [Concordia University, School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). My advisors are
 [Ursula Eicker](https://www.concordia.ca/next-gen/eicker.html), [Jia Yu Yuan](https://users.encs.concordia.ca/~jiayuan/) and [Freddy Lecue](http://www-sop.inria.fr/members/Freddy.Lecue/).
@@ -73,19 +75,18 @@ additional subsets. Each subset decides the best feature to split. Once enough s
 The existing GOSDT algorithm works only for binary features, which may not be ideal for training data with multiple features. During part of my fellowship, I developed a C++ implememntation that converts the binary decision tree to n-ary tree decision tree with the existing parallelism. See [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/async) for C++ implementations.
 
 **Topics of interests**: 
-
+* Computer networking
+* Tech supports, Troubleshooting
 * Mathematics, algorithms, Machine Learning
 * Computer graphics, Multimedia technology
-* Audio hardware emulation
-* Audio Plug-in development
-* Audio Software development on Linux or embedded platform
+* Software development on Linux or embedded platform
 * Audio detections, DSP
-* Audio oriented infrastructure
 
 I participated in C++ conference in the past. [cppcon](https://cppcon2018.sched.com/leanne.dong)
-I am a C++ developer. Though by heart and training, I'm more of a Mathematician, passionate about teaching young people how to be a good person and concerning about our society fair a bit.
 
 <!---
+I am a C++ developer. Though by heart and training, I'm more of a Mathematician, passionate about teaching young people how to be a good person and concerning about our society fair a bit.
+
 
 **Past Interests**
 
