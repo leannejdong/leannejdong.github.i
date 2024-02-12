@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/) and a casual educator in early childhood. I also help students with maths problems over some weekends.
-I am open to suitable technical opportunities - hoping to take skills level up to a technician help everyone troubleshooting computing issues.
+Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/). 
+I am passionate in helping everyone troubleshooting computing issues.
 In the past years, I worked as a freelance C++ developer and audio hardware collaboration under strict NDA. 
 
 My industry experience involve
@@ -76,7 +76,7 @@ additional subsets. Each subset decides the best feature to split. Once enough s
 The existing GOSDT algorithm works only for binary features, which may not be ideal for training data with multiple features. During part of my fellowship, I developed a C++ implememntation that converts the binary decision tree to n-ary tree decision tree with the existing parallelism. See [mgosdt](https://gitlab.com/leannejdong/mgosdt/-/tree/async) for C++ implementations.
 
 **Topics of interests**: 
-* Computer networking
+* Computer networking, IoT
 * Tech supports, Troubleshooting
 * Mathematics, algorithms, Machine Learning
 * Computer graphics, Multimedia technology
