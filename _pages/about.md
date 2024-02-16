@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/). 
+Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/) and a freelance IT consultant.
 
 I am passionate in helping everyone troubleshooting computing issues.
 In the past years, I worked as a freelance C++ developer and audio hardware collaboration under strict NDA. 
