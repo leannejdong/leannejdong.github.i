@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a trained Mathematician and a self-trained Computer scientist with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/) and a freelance IT consultant.
+Hi! I am a trained Mathematician and a IT professional with a passion in community. I am an Australian citizen living in Brisbane, Australia. I am currently working as a IoT project coordinator at Energy Skills of Queensland. Before the current role,  I worked as a coding instructor at [jnrengineer](https://www.juniorengineers.com.au/) and a freelance IT consultant and programmer.
 
 I am passionate in helping everyone troubleshooting computing issues.
 In the past years, I worked as a freelance C++ developer and audio hardware collaboration under strict NDA. 
 
 My industry experience involve
+ - Oversee general IT infrastructure, policies and procedures.
+ - Strategy planning (ICT)
  - Teaching technology with children
  - Technical consulting
  - C++, JUCE audio programming and algorithm consulting
